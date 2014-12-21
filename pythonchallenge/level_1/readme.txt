@@ -1,0 +1,1 @@
+The level 1 is simple.You can see 2**38 on the computer screen,and the hint is chante the URL address.So we can easily use python to calculate the result of 2**38,return 274877906944L.The L in the end means Long type,so we ignore it.Enter the new URL http://www.pythonchallenge.com/pc/def/274877906944.html 
