@@ -1,0 +1,1 @@
+When we enter the level 2,we see a notebook in the picture.We need to find more information,so we try to view page source.We will find a very long string at the end of the source page that filled with symbols like [@#$%?.So we need to use regax to find other information in the string,and we use a space to take place the synbols we don't need.Finially,we find the information!! 
