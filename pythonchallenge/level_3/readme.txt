@@ -1,0 +1,1 @@
+We can see the hint 'one small letter, surrounded by EXACTLY three big bodyguards on each of its sides.' under the picture.And we get a long string.And we should use regax to get the lowercase which has three upper cases at the both sides.
